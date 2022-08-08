@@ -157,3 +157,10 @@ function displayMobile(obj){
 
 
 displayMobile(mobiles)
+
+
+function newfunction(){
+    return {
+        console.log("My new changes")
+    }
+}
